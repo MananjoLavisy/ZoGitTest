@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582292988 source:d:\fci\prog exmpl\ass1\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+
